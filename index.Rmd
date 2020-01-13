@@ -1,0 +1,20 @@
+</br>
+
+<div class = "row">
+<div class = "col-sm-3">
+
+```{r pressure, echo = FALSE, fig.cap = "at [CERF Conference 2019](https://www.cerf.science/cerf-2019)", fig.align = "left", out.width = '100%'}
+knitr::include_graphics("images\\me.jpg")
+```
+</div>
+
+<div class = "col-md-9">
+Hello!
+
+I am a modeler and data analyst. I focus on solving estuarine and coastal eutrophication problems by combining process-based models with Bayesian inference. I am actively using R software, even to create this website! </br></br>
+Currently, I am pursiung a PhD degree at [North Carolina State University](https://www.ncsu.edu/) (USA). I earned MSc from [Dresden University of Technology](https://tu-dresden.de/) (Germany) in 2015, and a BSc from the [National University of Science and Technology](https://en.misis.ru/) (Moscow, Russia) in 2009. </br> </br>
+
+[Download my CV](Alexey_Katin_cv_NEW_01-11-2020.pdf)
+
+</div>
+</div>

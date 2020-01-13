@@ -1,0 +1,19 @@
+name: "Alexey Katin"
+navbar:
+  title: "Alexey Katin"
+  left:
+    - text: "Work"
+      href: work.html
+    - text: "About"
+      href: fun.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alexey-katin-77603517/
+    - icon: fa-github fa-lg
+      href: http://github.com/cuttin
+output:
+  html_document:
+    theme: readable
+    css: 'styles.css'
