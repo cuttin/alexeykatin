@@ -1,5 +1,6 @@
 name: "Alexey Katin"
 output_dir: "docs"
+
 navbar:
   title: "Alexey Katin"
   left:
@@ -18,3 +19,5 @@ output:
   html_document:
     theme: readable
     css: 'styles.css'
+    includes:
+      in_header: "favicon.html"
