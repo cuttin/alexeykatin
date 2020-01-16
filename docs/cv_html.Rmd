@@ -1,0 +1,122 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Alexey Katin
+
+<div class="row">
+  <div class="col-12 col-md-8">
+  2328 Broughton Hall <br> 
+  North Carolina State University <br>
+  Mailing: 1701 Gorman street, 204-1, Raleigh, NC 27606</div>
+  <div class="col-6 col-md-4">
+  +1 919 633 0911 <br>
+  akatin@ncsu.edu <br>
+  [www.alexeykatin.xyz](http://alexeykatin.xyz)
+  </div>
+</div>
+
+***
+
+#### Research and professional interests:
+
+* Dynamic numerical modeling 
+* Statistical inference
+* Data analysis and visualization
+* Eutrophication in lakes, estuaries and rivers
+
+#### Education
+
+<div class="row">
+  <div class="col-12 col-md-8">* **Ph.D**. Civil, Construction, and Environmental engineering <br>
+**North Carolina State University** (Raleigh, NC, USA)<br>
+Advisor: Daniel R. Obenour<br>
+Dissertation: Bayesian Modeling of Coastal Eutrophication to Inform Management Solutions for Hypoxia and Algal Blooms </div>
+  <div class="col-6 col-md-4">2016-present</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* **M.S.** Hydro Science and Engineering<br>
+**Technische Universität Dresden** (Dresden, Germany)<br>
+Advisors: Mitsuyo Saito, Kenji Okubo, Rudolf Liedl<br>
+Thesis: Quantitative evaluation of submarine groundwater discharge in granitic coastal area with the use of ^222^Rn as a natural tracer including diffusive flux from the benthic sediment </div>
+  <div class="col-6 col-md-4">2013-2015</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* **B.S.** Economics<br>
+**National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
+Advisor: Theodor B. Rubinshtein<br>
+Thesis: Bank credit risk management at OAO “ALFA-BANK”</div>
+  <div class="col-6 col-md-4">2006-2010</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* **B.S.** Environmental Engineering<br>
+**National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
+Advisor: Yuri M. Kochnov<br>
+Thesis: Development of recommendations for improving the drainage and the purification of gases systems for arc shaft furnace “Severstal” in order to reduce energy costs for purification</div>
+  <div class="col-6 col-md-4">2004-2009</div>
+</div>
+
+#### Positions held
+
+<div class="row">
+  <div class="col-12 col-md-8">* Graduate Research and Teaching Assistant<br>
+North Carolina State University</div>
+  <div class="col-6 col-md-4">2017-present</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* Documentation Technician<br>
+Helmholtz-Zentrum Dresden-Rossendorf (Dresden, Germany)</div>
+  <div class="col-6 col-md-4">2014-2016</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* Marketing Executive<br>
+Bosch Rexroth (Moscow, Russia)</div>
+  <div class="col-6 col-md-4">2010-2013</div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-8">* IT Technician<br>
+Equestrian centre “Bitsa” (Moscow, Russia)</div>
+  <div class="col-6 col-md-4">2005-2010</div>
+</div>
+
+#### Scholarly works ([Google Scholar](https://scholar.google.com/citations?user=kVUvwyEAAAAJ&hl=en))
+
+1. Katin, A., Del Giudice, D., Obenour, D.R. (2019). Modeling biophysical controls on hypoxia in a shallow estuary using a Bayesian mechanistic framework. Environmental modeling and software, 120.
+
+2. Scavia, D., Bertani, I., Obenour, D.R., Turner, R.E., Forrest, D.R., Katin, A. (2017). Ensemble modeling informs hypoxia management in the northern Gulf of Mexico. Proceedings of the National Academy of Sciences, Vol. 114, 8823-8828.
+
+#### Presentations
+1. Katin, A., Obenour, D.R., Del Giudice D “Contrasting nutrient management implications from statistical and process-based estuary phytoplankton models”, 25th Biennial Conference of the Coastal and Estuarine Research Federation (CERF). Mobile, AL. November 2019.
+
+2. Katin, A., Obenour, D.R., Del Giudice, D. “Development and application of a probabilistic hypoxia forecasting model for the Neuse Estuary”, Water Resources Research Institute (WRRI) Annual Conference. Raleigh, NC. March, 2019.
+
+3. Katin, A., Del Giudice D., Paerl, H.W., Obenour, D.R. “Modeling biophysical controls on hypoxia for the Neuse River Estuary using a Bayesian framework”, Estuarine and Coastal Modeling Conference (ECM15). Seattle, WA. June 2018.
+
+4. Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River estuary”, North Carolina Sea Grant Conference. Raleigh, NC. April 2017. 
+
+#### Publications at North Carolina Sea Grant Coastal Watch
+
+1. [Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary](https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/), 2016
+
+2. [Model Forecasts Severe Hypoxia through August in Neuse Estuary](https://ncseagrant.ncsu.edu/news/2018/07/model-forecasts-severe-hypoxia-through-august-in-neuse-estuary/), 2018
+
+3. [Tropical Systems Disrupt Neuse River Oxygen Levels](https://ncseagrant.ncsu.edu/currents/2019/01/tropical-systems-disrupt-neuse-river-oxygen-levels/), 2018
+
+4. [Researchers Forecast Healthier Neuse River Oxygen Levels](https://ncseagrant.ncsu.edu/news/2019/06/researchers-forecast-healthier-neuse-river-oxygen-levels/), 2019
+
+#### Teaching/Training Experience
+
+Teaching assistant for [CE 383, Hydrology and Urban Water Systems](http://catalog.ncsu.edu/undergraduate/coursedescriptions/ce/) during Spring 2018, 2019, 2020 and Fall 2018. Helped students at problem sessions and graded homeworks.
+
+#### Software Experience
+
+Modeling: R, Stan, ArcGIS, GRASS, MATLAB, QUAL2K, WEAP, IRIC, Lindo, Minteq
+
+Web: HTML, Gauss, First spirit, Joomla, Bitrix, WordPress
+
+Graphics: Photoshop, Illustrator, InDesign, Corel, GIMP
