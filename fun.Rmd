@@ -1,3 +1,10 @@
-</br>
-In my free time I like playing soccer and traveling occasionally. </br>
-Russian speakers can view some of my blog posts related to one-year exchange [experience in Japan](http://japanforayear.ru/category/travel).
+---
+output: html_document
+---
+<br>
+In my free time I like playing soccer and traveling occasionally.
+
+For Russian speakers:
+
+* Some of my blog posts related to one-year exchange [experience in Japan](http://japanforayear.ru/category/travel).
+* I am trying to promote R, so I am creating and teaching a part of [data analytics course](https://otus.ru/lessons/r-for-analytics/?int_source=courses_catalog&int_term=data-science)
