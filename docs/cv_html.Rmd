@@ -33,55 +33,56 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Education
 
 <div class="row">
-  <div class="col-12 col-md-8">* **Ph.D**. Civil, Construction, and Environmental engineering <br>
+  <div class="col-sm-2">2016-present</div>
+  <div class="col-sm-8">* **Ph.D**. Civil, Construction, and Environmental engineering <br>
 **North Carolina State University** (Raleigh, NC, USA)<br>
 Advisor: Daniel R. Obenour<br>
 Dissertation: Bayesian Modeling of Coastal Eutrophication to Inform Management Solutions for Hypoxia and Algal Blooms </div>
-  <div class="col-6 col-md-4">2016-present</div>
+  
 </div>
 <div class="row">
-  <div class="col-12 col-md-8">* **M.S.** Hydro Science and Engineering<br>
+  <div class="col-sm-2">2013-2015</div>
+  <div class="col-sm-8">* **M.S.** Hydro Science and Engineering<br>
 **Technische Universität Dresden** (Dresden, Germany)<br>
 Advisors: Mitsuyo Saito, Kenji Okubo, Rudolf Liedl<br>
 Thesis: Quantitative evaluation of submarine groundwater discharge in granitic coastal area with the use of ^222^Rn as a natural tracer including diffusive flux from the benthic sediment </div>
-  <div class="col-6 col-md-4">2013-2015</div>
-</div>
+  </div>
 <div class="row">
-  <div class="col-12 col-md-8">* **B.S.** Economics<br>
+  <div class="col-sm-2">2006-2010</div>
+  <div class="col-sm-8">* **B.S.** Economics<br>
 **National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
 Advisor: Theodor B. Rubinshtein<br>
 Thesis: Bank credit risk management at OAO “ALFA-BANK”</div>
-  <div class="col-6 col-md-4">2006-2010</div>
-</div>
+  </div>
 <div class="row">
-  <div class="col-12 col-md-8">* **B.S.** Environmental Engineering<br>
+  <div class="col-sm-2">2004-2009</div>
+  <div class="col-sm-8">* **B.S.** Environmental Engineering<br>
 **National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
 Advisor: Yuri M. Kochnov<br>
 Thesis: Development of recommendations for improving the drainage and the purification of gases systems for arc shaft furnace “Severstal” in order to reduce energy costs for purification</div>
-  <div class="col-6 col-md-4">2004-2009</div>
 </div>
 
 #### Positions held
 
 <div class="row">
-  <div class="col-12 col-md-8">* Graduate Research and Teaching Assistant<br>
+  <div class="col-sm-2">2017-present</div>
+  <div class="col-sm-8">* Graduate Research and Teaching Assistant<br>
 North Carolina State University</div>
-  <div class="col-6 col-md-4">2017-present</div>
 </div>
 <div class="row">
-  <div class="col-12 col-md-8">* Documentation Technician<br>
+  <div class="col-sm-2">2014-2016</div>
+  <div class="col-sm-8">* Documentation Technician<br>
 Helmholtz-Zentrum Dresden-Rossendorf (Dresden, Germany)</div>
-  <div class="col-6 col-md-4">2014-2016</div>
 </div>
 <div class="row">
-  <div class="col-12 col-md-8">* Marketing Executive<br>
+  <div class="col-sm-2">2010-2013</div>
+  <div class="col-sm-8">* Marketing Executive<br>
 Bosch Rexroth (Moscow, Russia)</div>
-  <div class="col-6 col-md-4">2010-2013</div>
 </div>
 <div class="row">
-  <div class="col-12 col-md-8">* IT Technician<br>
+  <div class="col-sm-2">2005-2010</div>
+  <div class="col-sm-8">* IT Technician<br>
 Equestrian centre “Bitsa” (Moscow, Russia)</div>
-  <div class="col-6 col-md-4">2005-2010</div>
 </div>
 
 #### Scholarly works ([Google Scholar](https://scholar.google.com/citations?user=kVUvwyEAAAAJ&hl=en))
