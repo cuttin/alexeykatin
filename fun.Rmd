@@ -2,7 +2,7 @@
 output: html_document
 ---
 <br>
-In my free time I like playing soccer and traveling occasionally.
+In my free time I like playing both indoor and outdoor soccer and traveling occasionally.
 
 For Russian speakers:
 
