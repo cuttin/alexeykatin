@@ -65,13 +65,13 @@ Thesis: Development of recommendations for improving gas purification system for
 
 * Leveraged model for short-term [hypoxia forecasting](#blog_posts) to inform fisheries and watershed managers in advance about the expected conditions
 
-* Developed Bayesian empirical and process-based predictive models to understand how environmental factors control phytoplankton in the river-dominated estuary. Tested the system sensitivity to nutrient loading variations in order to copmly with state water quality standard
+* Developed Bayesian empirical and process-based predictive models to understand how environmental factors control phytoplankton in the river-dominated estuary. Tested the system sensitivity to nutrient loading variations in order to comply with state water quality standard
 
 * Used R to process and analyze data, produce figures, and code all models
 
-* Provided annual forecast for the Gulf of Mexico (GoM) hypoxia. Suggested [update for existing model](#gom_ensemble) to include the long-term effect of nutrient loadings in the predictions of the GoM hypoxic zone
+* Provided annual forecast for the Gulf of Mexico (GoM) hypoxia. Suggested [updates to the existing model](#gom_ensemble) to include the long-term effect of nutrient loadings in the predictions of the GoM hypoxic zone
 
-**Graduate Teaching Assistant**. [CE 383, Hydrology and Urban Water Systems](http://catalog.ncsu.edu/undergraduate/coursedescriptions/ce/), NCSU Department of Civil Engineering (2018-present)
+**Graduate Teaching Assistant**. CE 383 – Hydrology and Urban Water Systems, NCSU Department of Civil, Construction, and Environmental Engineering (2018-present)
 
 * Graded biweekly student asignments
 
@@ -91,9 +91,9 @@ Thesis: Development of recommendations for improving gas purification system for
 
 * Designed sales brochures according to corporate style. Worked with printing agencies
 
-#### Scholarly works ([Google Scholar](https://scholar.google.com/citations?user=kVUvwyEAAAAJ&hl=en))
+#### Scholarly works 
 
-1. <a id="nre_hypoxia"></a>Katin, A., Del Giudice, D., Obenour, D.R. (2019). Modeling biophysical controls on hypoxia in a shallow estuary using a Bayesian mechanistic framework. Environmental modeling and software, 120.
+1. <a id="nre_hypoxia"></a>Katin, A., Del Giudice, D., Obenour, D.R. (2019). Modeling biophysical controls on hypoxia in a shallow estuary using a Bayesian mechanistic framework. Environmental modeling and software, 120. 
 
 2. <a id="gom_ensemble"></a>Scavia, D., Bertani, I., Obenour, D.R., Turner, R.E., Forrest, D.R., Katin, A. (2017). Ensemble modeling informs hypoxia management in the northern Gulf of Mexico. Proceedings of the National Academy of Sciences, Vol. 114, 8823-8828.
 
