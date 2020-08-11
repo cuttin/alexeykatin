@@ -7,4 +7,4 @@ In my free time I like playing both indoor and outdoor soccer and traveling occa
 For Russian speakers:
 
 * Some of my blog posts related to one-year exchange [experience in Japan](http://japanforayear.ru/category/travel).
-* I am trying to promote R, so I am creating and teaching a part of [data analytics course](https://otus.ru/lessons/r-for-analytics/?int_source=courses_catalog&int_term=data-science)
+* I am trying to promote data science, so I was creating and teaching a part of [data analytics course](https://otus.ru/teacher/320/)
