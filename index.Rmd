@@ -16,7 +16,7 @@ knitr::include_graphics("images\\me.jpg")
 Hello!
 
 I am a modeler and data analyst. I focus on solving estuarine and coastal eutrophication problems by combining process-based models with Bayesian inference. I am actively using R software, even to create this website! </br></br>
-I have recently earned a PhD degree at [North Carolina State University](https://www.ncsu.edu/) (USA). I also earned MSc from [Dresden University of Technology](https://tu-dresden.de/) (Germany) in 2015, and a BSc from the [National University of Science and Technology](https://en.misis.ru/) (Moscow, Russia) in 2009. </br> </br>
+I have recently earned a PhD degree from [North Carolina State University](https://www.ncsu.edu/) (USA). I also obtained MSc from [Dresden University of Technology](https://tu-dresden.de/) (Germany) in 2015, and a BSc from the [National University of Science and Technology](https://en.misis.ru/) (Moscow, Russia) in 2009. </br> </br>
 
 [Download my CV](cv_html_08-10-2020.html) (Save it as .pdf using your browser "Print" option)
 
