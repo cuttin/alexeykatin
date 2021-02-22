@@ -1,3 +1,4 @@
+---
 name: "Alexey Katin"
 title: "Alexey personal website"
 output_dir: "docs"
@@ -22,3 +23,4 @@ output:
     css: 'styles.css'
     includes:
       in_header: "favicon.html"
+---
