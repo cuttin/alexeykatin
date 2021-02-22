@@ -1,3 +1,7 @@
+---
+output: html_document
+title: "Contact me"
+---
 </br>
 Feel free to reach out:<br>
 

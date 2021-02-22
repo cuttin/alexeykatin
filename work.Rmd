@@ -1,3 +1,7 @@
+---
+output: html_document
+title: "My work"
+---
 </br>
 My dissertation research, under the advisement of Dr. Dan Obenour at North Carolina State University, focuses on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season.
 </br></br> Some digestible publications in Press (Coastal Watch):

@@ -1,5 +1,6 @@
 ---
 output: html_document
+title: "What I do for fun"
 ---
 <br>
 In my free time I like playing both indoor and outdoor soccer and traveling occasionally.
