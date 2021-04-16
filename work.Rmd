@@ -3,7 +3,7 @@ output: html_document
 title: "My work"
 ---
 </br>
-My dissertation research, under the advisement of Dr. Dan Obenour at North Carolina State University, focuses on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season.
+[My dissertation research](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&isAllowed=y), under the advisement of Dr. Dan Obenour at North Carolina State University, focused on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season.
 </br></br> Some digestible publications in Press (Coastal Watch):
 </br>
 - [Midsummer Neuse River Forecast Shows Greater Potential for Fish Kills](https://ncseagrant.ncsu.edu/currents/2020/06/midsummer-neuse-river-forecast-shows-greater-potential-for-fish-kills/), 2020</br>
@@ -13,4 +13,4 @@ My dissertation research, under the advisement of Dr. Dan Obenour at North Carol
 - [Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary](https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/), 2016
 
 </br>
-A list of my peer-reviewed publications is available on [Google scholar](https://scholar.google.com/citations?user=kVUvwyEAAAAJ&hl=en).
+A list of my peer-reviewed publications is available on [Google scholar](https://scholar.google.com/citations?user=kVUvwyEAAAAJ&hl=en). If you need a full text of any of my manuscripts, feel free to [contact me](contact.html), I will be happy to share.  

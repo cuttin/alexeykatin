@@ -13,13 +13,22 @@
 
 <title>My work</title>
 
-<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -27,12 +36,16 @@
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -45,32 +58,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -81,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -101,40 +85,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 66px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
-.section h2 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
-.section h3 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
-.section h4 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
-.section h5 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
-.section h6 {
-  padding-top: 71px;
-  margin-top: -71px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -162,7 +119,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -174,7 +131,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -185,10 +142,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -200,7 +170,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -286,19 +255,19 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/alexey-katin-77603517/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/cuttin">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -307,7 +276,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -316,8 +285,8 @@ $(document).ready(function () {
 </div>
 
 
-<p></br> My dissertation research, under the advisement of Dr. Dan Obenour at North Carolina State University, focuses on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season. </br></br> Some digestible publications in Press (Coastal Watch): </br> - <a href="https://ncseagrant.ncsu.edu/currents/2020/06/midsummer-neuse-river-forecast-shows-greater-potential-for-fish-kills/">Midsummer Neuse River Forecast Shows Greater Potential for Fish Kills</a>, 2020</br> - <a href="https://ncseagrant.ncsu.edu/news/2019/06/researchers-forecast-healthier-neuse-river-oxygen-levels/">Researchers Forecast Healthier Neuse River Oxygen Levels</a>, 2019</br> - <a href="https://ncseagrant.ncsu.edu/currents/2019/01/tropical-systems-disrupt-neuse-river-oxygen-levels/">Tropical Systems Disrupt Neuse River Oxygen Levels</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/news/2018/07/model-forecasts-severe-hypoxia-through-august-in-neuse-estuary/">Model Forecasts Severe Hypoxia through August in Neuse Estuary</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/">Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary</a>, 2016</p>
-<p></br> A list of my peer-reviewed publications is available on <a href="https://scholar.google.com/citations?user=kVUvwyEAAAAJ&amp;hl=en">Google scholar</a>.</p>
+<p></br> <a href="https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&amp;isAllowed=y">My dissertation research</a>, under the advisement of Dr. Dan Obenour at North Carolina State University, focused on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season. </br></br> Some digestible publications in Press (Coastal Watch): </br> - <a href="https://ncseagrant.ncsu.edu/currents/2020/06/midsummer-neuse-river-forecast-shows-greater-potential-for-fish-kills/">Midsummer Neuse River Forecast Shows Greater Potential for Fish Kills</a>, 2020</br> - <a href="https://ncseagrant.ncsu.edu/news/2019/06/researchers-forecast-healthier-neuse-river-oxygen-levels/">Researchers Forecast Healthier Neuse River Oxygen Levels</a>, 2019</br> - <a href="https://ncseagrant.ncsu.edu/currents/2019/01/tropical-systems-disrupt-neuse-river-oxygen-levels/">Tropical Systems Disrupt Neuse River Oxygen Levels</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/news/2018/07/model-forecasts-severe-hypoxia-through-august-in-neuse-estuary/">Model Forecasts Severe Hypoxia through August in Neuse Estuary</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/">Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary</a>, 2016</p>
+<p></br> A list of my peer-reviewed publications is available on <a href="https://scholar.google.com/citations?user=kVUvwyEAAAAJ&amp;hl=en">Google scholar</a>. If you need a full text of any of my manuscripts, feel free to <a href="contact.html">contact me</a>, I will be happy to share.</p>
 
 
 
@@ -328,7 +297,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -346,7 +315,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
