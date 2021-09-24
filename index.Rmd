@@ -4,6 +4,13 @@ title: "Alexey Katin"
 name: "Alexey Katin"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 </br>
 
 <div class = "row">

@@ -14,6 +14,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-linkedin fa-lg
+#    - icon: fa-linkedin-in fa-br
       href: https://www.linkedin.com/in/alexey-katin-77603517/
     - icon: fa-github fa-lg
       href: http://github.com/cuttin
@@ -24,3 +25,4 @@ output:
     includes:
       in_header: "favicon.html"
 ---
+
