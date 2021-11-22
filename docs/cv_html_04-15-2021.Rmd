@@ -114,13 +114,15 @@ Thesis: Development of recommendations for improving gas purification system for
 * Accomplished study project during Masters: Testing the performance of spatial interpolation techniques for mapping precipitation fields in Saxony, Germany (2014). Interpolation and output figures were performed in R 
 
 #### Presentations
-1. Katin, A., Obenour, D.R., Del Giudice D [“Contrasting nutrient management implications from statistical and process-based estuary phytoplankton models”](https://cerf.confex.com/cerf/2019/meetingapp.cgi/Paper/6594), 25th Biennial Conference of the Coastal and Estuarine Research Federation (CERF). Mobile, AL. November 2019.
+Katin, A., Obenour, D.R., Del Giudice D. "Summerlong, climate-driven hypoxia forecasts for the northern Gulf of Mexico via Bayesian mechanistic modeling", 26th Biennial Conference of Coastal and Estuarine Research Federation (CERF), November, 2021.
 
-2. Katin, A., Obenour, D.R., Del Giudice, D. “Development and application of a probabilistic hypoxia forecasting model for the Neuse Estuary”, Water Resources Research Institute (WRRI) Annual Conference. Raleigh, NC. March, 2019.
+Katin, A., Obenour, D.R., Del Giudice D. [“Contrasting nutrient management implications from statistical and process-based estuary phytoplankton models”](https://cerf.confex.com/cerf/2019/meetingapp.cgi/Paper/6594), 25th Biennial Conference of the Coastal and Estuarine Research Federation (CERF). Mobile, AL. November 2019.
 
-3. Katin, A., Del Giudice D., Paerl, H.W., Obenour, D.R. [“Modeling biophysical controls on hypoxia for the Neuse River Estuary using a Bayesian framework”](https://ecm.github.io/ECM15/abstracts.html#Modeling%20biophysical%20controls%20on%20hypoxia%20for%20the%20Neuse%20River%20Estuary%20using%20a%20Bayesian%20framework), Estuarine and Coastal Modeling Conference (ECM15). Seattle, WA. June 2018.
+Katin, A., Obenour, D.R., Del Giudice, D. “Development and application of a probabilistic hypoxia forecasting model for the Neuse Estuary”, Water Resources Research Institute (WRRI) Annual Conference. Raleigh, NC. March, 2019.
 
-4. Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River Estuary”, North Carolina Sea Grant Conference. Raleigh, NC. April 2017. 
+Katin, A., Del Giudice D., Paerl, H.W., Obenour, D.R. [“Modeling biophysical controls on hypoxia for the Neuse River Estuary using a Bayesian framework”](https://ecm.github.io/ECM15/abstracts.html#Modeling%20biophysical%20controls%20on%20hypoxia%20for%20the%20Neuse%20River%20Estuary%20using%20a%20Bayesian%20framework), Estuarine and Coastal Modeling Conference (ECM15). Seattle, WA. June 2018.
+
+Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River Estuary”, North Carolina Sea Grant Conference. Raleigh, NC. April 2017. 
 
 #### Publications at North Carolina Sea Grant Coastal Watch<a id="blog_posts"></a>
 
