@@ -31,13 +31,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Professional interests:
 
-* Statistical and differential equation modeling, machine learning, Bayesian statistics
+* Statistical and differential equation modeling, machine learning, Bayesian inference
 * Data analysis and visualization (maps, tables, and figures)
 * Water quality, hydrologic and ecological modeling
 
 #### Education
 
-* **Ph.D**. Civil, Construction, and Environmental engineering (2016–2021)<br>
+* **Ph.D**. Department of Civil, Construction & Environmental Engineering (CCEE) (2016–2021)<br>
 **North Carolina State University** (NCSU) (Raleigh, NC, USA)<br>
 Advisor: Daniel R. Obenour<br>
 Dissertation: [Bayesian Modeling of Coastal Eutrophication to Inform Management Solutions for Hypoxia and Algal Blooms](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&isAllowed=y) 
@@ -50,7 +50,7 @@ Thesis: Quantitative evaluation of submarine groundwater discharge in granitic c
 * **B.S.** Economics (2006–2010)<br>
 **National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
 Advisor: Theodor B. Rubinshtein<br>
-Thesis: Bank credit risk management at OAO “ALFA-BANK”
+Thesis: Credit risk management for “Alfa-Bank”
 
 * **B.S.** Environmental Engineering (2004–2009)<br>
 **National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
@@ -59,9 +59,11 @@ Thesis: Development of recommendations for improving gas purification system for
 
 #### Positions held
 
-**Postdoctoral Scholar**. NCSU Department of Civil Engineering (2021–present)
+**Postdoctoral Scholar**. NCSU, CCEE (2021–present)
 
-**Research Assistant**. NCSU Department of Civil Engineering (2016–2020)
+* Developed Bayesian models linking spatio-temporal distributions of marine species (Brown and White Shrimp) to environmental, water quality and anthropogenic factors (manuscript in prep.) 
+
+**Research Assistant**. NCSU, CCEE (2016–2020)
 
 * Developed novel [Bayesian mechanistic biogeochemical model](#nre_hypoxia) to predict dissolved oxygen concentration for the Neuse Estuary, NC  
 
@@ -73,9 +75,9 @@ Thesis: Development of recommendations for improving gas purification system for
 
 * Provided annual forecast for the Gulf of Mexico (GoM) hypoxia. Suggested [updates to the existing model](#gom_ensemble) to include the long-term effect of nutrient loadings in the predictions of the GoM hypoxic zone
 
-**Graduate Teaching Assistant**. CE 383 – Hydrology and Urban Water Systems, NCSU Department of Civil, Construction, and Environmental Engineering (2018–2020)
+**Graduate Teaching Assistant**. CE 383 – Hydrology and Urban Water Systems. NCSU, CCEE (2018–2020)
 
-* Graded biweekly student asignments
+* Graded biweekly student assignments
 
 * Assisted students with questions during regular office hours
 
@@ -101,7 +103,7 @@ Thesis: Development of recommendations for improving gas purification system for
 
 3. <a id="nre_chla"></a>Katin, A., Del Giudice, D., Hall, N.S., Paerl, H.W., Obenour, D.R. (2021). Simulating algal dynamics within a Bayesian framework to evaluate controls on estuary productivity. Ecological modelling, Vol. 447. [10.1016/j.ecolmodel.2021.109497](https://www.sciencedirect.com/science/article/pii/S0304380021000685)
 
-4. Katin, A., Del Giudice, D., Obenour, D.R. (2021). Daily hypoxia forecasting and uncertainty assessment via Bayesian mechanistic model for the Northern Gulf of Mexico, Hydrol. Earth Syst. Sci. Discuss, preprint, in review. [10.5194/hess-2021-207](https://doi.org/10.5194/hess-2021-207)
+4. Katin, A., Del Giudice, D., Obenour, D.R. Daily hypoxia forecasting and uncertainty assessment via Bayesian mechanistic model for the Northern Gulf of Mexico, Hydrol. Earth Syst. Sci. Discuss, preprint, in review. [10.5194/hess-2021-207](https://doi.org/10.5194/hess-2021-207)
 
 #### Other related experience and unpublished works 
 
@@ -144,7 +146,7 @@ Modeling: R, Python, MATLAB, SAS, Stan, ArcGIS, GRASS, QUAL2K, WEAP, IRIC, Lindo
 
 Web: HTML, Gauss, First spirit, Joomla, Bitrix, WordPress
 
-Graphics: Photoshop, Illustrator, InDesign, Corel, GIMP
+Graphics: Adobe (Photoshop, Illustrator, InDesign), Corel, GIMP
 
 #### Honors
 
