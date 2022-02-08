@@ -285,8 +285,107 @@ $(document).ready(function () {
 </div>
 
 
-<p></br> <a href="https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&amp;isAllowed=y">My dissertation research</a>, under the advisement of Dr. Dan Obenour at North Carolina State University, focused on development of models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. The first part of my research is devoted to development of a Bayesian process-based biophysical model to dynamically simulate the temporal and spatial variability of dissolved oxygen for the Neuse River Estuary (NC, USA). Next, I develop and compare statistical and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton in the same system. Finally, I expand existing Bayesian mechanistic model for Northern Gulf of Mexico, to forecast dissolved oxygen levels in advance of hypoxic season. </br></br> Some digestible publications in Press (Coastal Watch): </br> - <a href="https://ncseagrant.ncsu.edu/currents/2021/06/summer-2021-hypoxia-forecast-fish-kills-less-likely-than-usual-in-the-neuse-river-estuary/">Summer 2021 Hypoxia Forecast: Fish Kills Less Likely Than Usual in the Neuse River Estuary</a>, 2021</br> - <a href="https://ncseagrant.ncsu.edu/currents/2020/06/midsummer-neuse-river-forecast-shows-greater-potential-for-fish-kills/">Midsummer Neuse River Forecast Shows Greater Potential for Fish Kills</a>, 2020</br> - <a href="https://ncseagrant.ncsu.edu/news/2019/06/researchers-forecast-healthier-neuse-river-oxygen-levels/">Researchers Forecast Healthier Neuse River Oxygen Levels</a>, 2019</br> - <a href="https://ncseagrant.ncsu.edu/currents/2019/01/tropical-systems-disrupt-neuse-river-oxygen-levels/">Tropical Systems Disrupt Neuse River Oxygen Levels</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/news/2018/07/model-forecasts-severe-hypoxia-through-august-in-neuse-estuary/">Model Forecasts Severe Hypoxia through August in Neuse Estuary</a>, 2018</br> - <a href="https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/">Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary</a>, 2016</p>
-<p></br> A list of my peer-reviewed publications is available on <a href="https://scholar.google.com/citations?user=kVUvwyEAAAAJ&amp;hl=en">Google scholar</a>. If you need a full text of any of my manuscripts, feel free to <a href="contact.html">contact me</a>, I will be happy to share.</p>
+<style>
+p.caption {
+  font-size: 0.8em;
+}
+</style>
+<p></br></p>
+<div id="what-i-do" class="section level3">
+<h3>What I do</h3>
+<p>My professional interests cover multiple areas of predictive analytics and modeling. A substantial portion of my work is related to supervised machine learning application, including Bayesian statistics. Generally, I focus on: </br></p>
+<ul>
+<li>Regression (Ordinary, Logistic, Hierarchical/Multilevel) modeling</li>
+<li>Combining systems of differential equations with Bayesian data analysis</li>
+<li>Developing ecological modeling tools to support decision making</li>
+<li>Environmental forecasting with elaborate uncertainty quantification </br></li>
+</ul>
+<p><a href="https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&amp;isAllowed=y">My dissertation research</a> describes the development of statistical and mechanistic models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. </br> Eutrophication is an enrichment of natural waters with nutrients, as a result of human activities like excessive use of agricultural fertilizer or wastewater effluent. Eutrophication promotes harmful algal blooms and hypoxia (dissolved oxygen concentration &lt; 2 mg/L) which damage fisheries, ecosystems and water supplies. <a href="https://oceanservice.noaa.gov/facts/eutrophication.html">According to NOAA</a>, 65% of the estuaries and coastal waters in the US are moderately to severely degraded by the excessive nutrient inputs. The conservative estimated cost of <a href="https://pubs.acs.org/doi/10.1021/es801217q">damage from eutrophication only in the US freshwaters</a> is approximately $2.2 billion annually.</p>
+</div>
+<div id="accomplished-and-ongoing-projects" class="section level3">
+<h3>Accomplished and ongoing projects</h3>
+<div id="neuse-river-estuary" class="section level4">
+<h4>Neuse River Estuary</h4>
+<div class="row">
+<div class="col-sm-5 col-xs-5 col-md-5">
+<div class="figure" style="text-align: left">
+<img src="images/Neuse.png" alt="Map of the Neuse River Estuary in NC, USA" width="100%" />
+<p class="caption">
+Map of the Neuse River Estuary in NC, USA
+</p>
+</div>
+</div>
+<div class="col-sm-7 col-xs-7 col-md-7">
+<p>I developed mechanistic and empirical water quality models for the Neuse River Estuary, located in southeastern North Carolina, USA. The models represent the dynamics of near-bottom dissolved oxygen and water column phytoplankton (chlorophyll <em>a</em>, a proxy for algal blooms), which are commonly used as indicators of water quality. The estuary has been experiencing hypoxia, algal blooms, and fish kills for <a href="https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/">over two decades</a>. These problems has been attributed to an increased amount of nutrients resulting in the river due to rapid growth around the watershed.</p>
+<p>First, I formulated process-based biophysical model to simulate the temporal and spatial variability of near-bottom dissolved oxygen. The complex interactions of hydrologic, meteorologic, and anthropogenic influences, affecting the oxygen levels, were described via differential equations. Model was calibrated within Bayesian framework, which enables probabilistic estimation of uncertain rate parameters based on prior scientific knowledge and comparison to historical data.</p>
+</div>
+</div>
+</br>
+<div class="row">
+<div class="col-sm-7 col-xs-7 col-md-7">
+<p>Model results reveal the influence of hydrometeorological factors on oxygen levels across daily-to-yearly time scales, demonstrating a strong linkage between the riverine inputs and year-to-year oxygen variability. Higher winter river discharge intensifies longitudinal velocities, leading to increased flushing and reduced time to produce and settle organic matter in the estuary, which elevates oxygen levels in summer. Results further indicate that while sediments are the dominant oxygen sink in the estuary, hypoxia can still be mitigated through seasonal nutrient loading reductions.</p>
+<p>The probabilistic predictions of the model allow for finding the probabilities of achieving the increases in oxygen levels under multiple nutrient regulations. For example, given a 30% nutrient loading reduction, if samples are only collected twice per month (as is currently the case), it will take about 10 years to be 90% confident of producing an increase in mean May–October near-bottom oxygen.</p>
+</div>
+<div class="col-sm-5 col-xs-5 col-md-5">
+<div class="figure" style="text-align: left">
+<img src="images/years-to-improve.png" alt="Probability of observing an increase in mean May–October dissolved oxygen as compared to average 1997–2015 conditions, given three levels of nutrient loading reduction, considering stochasticity due to hydrometeorology and model residual uncertainty. Probabilities are provided assuming the Neuse estuary is observed (i.e., sampled) every day (solid lines) or biweekly (dashed lines)." width="100%" />
+<p class="caption">
+Probability of observing an increase in mean May–October dissolved oxygen as compared to average 1997–2015 conditions, given three levels of nutrient loading reduction, considering stochasticity due to hydrometeorology and model residual uncertainty. Probabilities are provided assuming the Neuse estuary is observed (i.e., sampled) every day (solid lines) or biweekly (dashed lines).
+</p>
+</div>
+</div>
+</div>
+<p></br> The model naturally lends itself to be applied for forecasting hypoxia, given riverine flows and nutrient loads, which can be obtained through watershed modeling. I have been producing the annual summer Neuse hypoxia forecast since 2018. All available forecasts and their evaluation can be found below: </br></p>
+<ul>
+<li><a href="https://ncseagrant.ncsu.edu/currents/2021/06/summer-2021-hypoxia-forecast-fish-kills-less-likely-than-usual-in-the-neuse-river-estuary/">Summer 2021 Hypoxia Forecast: Fish Kills Less Likely Than Usual in the Neuse River Estuary</a>, 2021</br></li>
+<li><a href="https://ncseagrant.ncsu.edu/currents/2020/06/midsummer-neuse-river-forecast-shows-greater-potential-for-fish-kills/">Midsummer Neuse River Forecast Shows Greater Potential for Fish Kills</a>, 2020</br></li>
+<li><a href="https://ncseagrant.ncsu.edu/news/2019/06/researchers-forecast-healthier-neuse-river-oxygen-levels/">Researchers Forecast Healthier Neuse River Oxygen Levels</a>, 2019</br></li>
+<li><a href="https://ncseagrant.ncsu.edu/currents/2019/01/tropical-systems-disrupt-neuse-river-oxygen-levels/">Tropical Systems Disrupt Neuse River Oxygen Levels</a>, 2018</br></li>
+<li><a href="https://ncseagrant.ncsu.edu/news/2018/07/model-forecasts-severe-hypoxia-through-august-in-neuse-estuary/">Model Forecasts Severe Hypoxia through August in Neuse Estuary</a>, 2018</br></li>
+</ul>
+<p>This study was published in 2019: <a href="https://doi.org/10.1016/j.envsoft.2019.07.016">Katin, A., Del Giudice, D., &amp; Obenour, D. R. (2019). Modeling biophysical controls on hypoxia in a shallow estuary using a Bayesian mechanistic approach. Environmental Modelling &amp; Software, 120, 104491.</a></p>
+<p></br></p>
+<div class="row">
+<div class="col-sm-5 col-xs-5 col-md-5">
+<div class="figure" style="text-align: left">
+<img src="images/chla-nutrient-reductions.png" alt="Average chlorophyll *a* predictions for hierarchical regression and process-based model shown for four seasons and three hydrologic conditions under nutrient loading adjustments. Loading scenarios are based on modifying riverine incoming nutrient concentrations by the percent shown; flows and other model inputs are held constant. For clarity, 90% credible intervals are shown only for summer scenarios (blue ribbon)" width="100%" />
+<p class="caption">
+Average chlorophyll <em>a</em> predictions for hierarchical regression and process-based model shown for four seasons and three hydrologic conditions under nutrient loading adjustments. Loading scenarios are based on modifying riverine incoming nutrient concentrations by the percent shown; flows and other model inputs are held constant. For clarity, 90% credible intervals are shown only for summer scenarios (blue ribbon)
+</p>
+</div>
+</div>
+<div class="col-sm-7 col-xs-7 col-md-7">
+<p>Second, I built and compared hierarchical piecewise regression and mechanistic predictive models for testing hypotheses about biophysical factors driving the temporal and spatial variability of phytoplankton (as chlorophyll <em>a</em>). Parameters for empirical and mechanistic models were calibrated using Bayesian framework, where the inference was numerically implemented using Markov Chain Monte Carlo sampling, performed via Hamiltonian Monte Carlo (in <a href="https://mc-stan.org/">Stan</a>) and an <a href="https://www.jstor.org/stable/3318737?seq=1#metadata_info_tab_contents">adaptive Metropolis</a> algorithms, respectively.</p>
+<p>Hierarchical piecewise regression model with varying slopes and intercepts suggested that river discharge had a strong effect on chlorophyll <em>a</em>, with a change point depending on the magnitude of the flow. However, for nutrient management scenarios process-based models are preferable as they explicitly describe the biochemical mechanisms.</p>
+<p>Mechanistic model results indicate that nitrogen is the major nutrient, limiting phytoplankton growth even under phosphorus loading reductions. Results also suggested that nutrient limitation was temporarily and spatially variable, being more pronounced during dry conditions. What is more, results indicate that nutrient concentration reductions, rather than total loading reductions, are the key to controlling estuary chlorophyll <em>a</em> levels. This process-based model also predicted that a 10% change in nitrogen loading (flow held constant) would produce an approximate 4.3% change in estuary chlorophyll <em>a</em> concentration, while hierarchical piecewise regression implied a larger (and unlikely realistic 10%) effect.</p>
+<p>This study was published in 2021: <a href="https://doi.org/10.1016/j.ecolmodel.2021.109497">Katin, A., Del Giudice, D., Hall, N. S., Paerl, H. W., &amp; Obenour, D. R. (2021). Simulating algal dynamics within a Bayesian framework to evaluate controls on estuary productivity. Ecological Modelling, 447, 109497.</a></p>
+</div>
+</div>
+<p>The important finding of this research is that implementing a 30% nutrient loading reduction for the Neuse River Estuary would help to reduce chlorophyll <em>a</em> concentration by 14% and decrease the amount of hypoxic days by 25%. These reductions will help to meet compliance with <a href="https://deq.nc.gov/about/divisions/water-resources/water-planning/nonpoint-source-planning/neuse-nutrient-strategy#general-resources">state water quality standards</a> will result in overall reduction of ecosystem stress, potentially reducing fish mortality. </br></p>
+</div>
+<div id="gulf-of-mexico" class="section level4">
+<h4>Gulf of Mexico</h4>
+<p>In this project I focused on two major tasks: 1) leveraging the existing Bayesian mechanistic model for forecasting dissolved oxygen levels in advance of hypoxic season for Northern Gulf of Mexico 2) using a Bayesian delta-lognormal approach to model distrubutions of Brown and White Shrimp for Louisiana shelf of the Northern Gulf.</p>
+<p>A combination of anthropogenic and environmental factors controls the size the of the low dissolved oxygen (hypoxic) zone, occurring each summer in the Northern Gulf of Mexico. Hypoxia influences the distribution of commercially important finfish and shellfish, with implications for fisheries management. Most <a href="https://doi.org/10.1073/pnas.1705293114">existing hypoxia forecasts</a> for the Gulf are based only on spring nitrogen load and report only late-July hypoxic conditions.</p>
+<p>However, temporally-resolved forecasts are critical for informing fisheries that are active across the summer season. I present a hypoxia forecasting system, which provides dissolved oxygen concentrations and hypoxic area size at daily resolution with up to four months of lead time. The underlying Bayesian mechanistic model allows for testing various representations of hydro-meteorological model inputs, explicitly distinguishing between different sources of uncertainty.</p>
+<div class="figure" style="text-align: left">
+<img src="images/time_series_2_shelfs_combined_1993_with_legend.png" alt="Daily pseudo-forecasts of hypoxic area for the west and east sections of the Northern Gulf in 1993, including 95% interquantile range of the predictive distribution, distinguishing between i) parameter, ii) riverine and meteorological inputs, iii) mechanistic model error and iv) bias adjustment and transformation of dissolved oxygen to hypoxic area errors (shades of gray from lightest to darkest). Yellow dashed line is hindcasted estimate, black dashed line is the 32 year average hindcast, orange points and error bars represent the mean and associated 95% confidence interval of the (geostatistically estimated) hypoxia observations." width="100%" />
+<p class="caption">
+Daily pseudo-forecasts of hypoxic area for the west and east sections of the Northern Gulf in 1993, including 95% interquantile range of the predictive distribution, distinguishing between i) parameter, ii) riverine and meteorological inputs, iii) mechanistic model error and iv) bias adjustment and transformation of dissolved oxygen to hypoxic area errors (shades of gray from lightest to darkest). Yellow dashed line is hindcasted estimate, black dashed line is the 32 year average hindcast, orange points and error bars represent the mean and associated 95% confidence interval of the (geostatistically estimated) hypoxia observations.
+</p>
+</div>
+<p>Results show that constraining summer riverine inputs based on spring conditions, including precipitation over the Mississippi River basin, can be used to improve hypoxia forecasting skill. We also show that inclusion of spring wind data further enhances hypoxia forecasts. Overall, retrospective forecasts explain about 50% of the temporal variability in hypoxic area for two different sections of the Louisiana–Texas shelf (1985−2016). In addition, the forecasting approach explicitly quantifies the uncertainty associated with model parameters, variability in data inputs, and residual error, allowing for risk-based ecosystem management.</p>
+<p>This manuscript was accepted for publication, and the preprint is available: <a href="https://hess.copernicus.org/preprints/hess-2021-207/hess-2021-207.pdf">Katin, A., Del Giudice, D., &amp; Obenour, D. R. (2021). Daily hypoxia forecasting and uncertainty assessment via Bayesian mechanistic model for the Northern Gulf of Mexico. Hydrology and Earth System Sciences Discussions, 1-17.</a></p>
+<p>Delta-lognormal approach, combining presence-absence and non-zero catch species distribution models, are developed for two shrimp species for the Louisiana–Texas shelf of the northern Gulf of Mexico, USA. The models represent the distribution of Brown (Penaeus aztecus) and White Shrimp (Penaeus setiferus) and identify the influence of multiple environmental, water quality (including dissolved oxygen), and anthropogenic predictor variables. The survey data of both shrimp species are analyzed using Bayesian statistical models, which are built on findings from generalized additive models (GAMs). The manuscript is in preparation.</p>
+<div class="figure" style="text-align: left">
+<img src="images/combined_july_scaled_cpue.png" alt="Scaled (by July maximum) predicted (shades of grey) and observed (blue circles) abundance (CPUE, catch per unit effort) of Brown and White Shrimp using delta-lognormal approach for July 2008 " width="100%" />
+<p class="caption">
+Scaled (by July maximum) predicted (shades of grey) and observed (blue circles) abundance (CPUE, catch per unit effort) of Brown and White Shrimp using delta-lognormal approach for July 2008
+</p>
+</div>
+<p>A list of all above-mentioned peer-reviewed publications are available on <a href="https://scholar.google.com/citations?user=kVUvwyEAAAAJ&amp;hl=en">Google scholar</a>. If you need a full text of any of my manuscripts, feel free to <a href="contact.html">contact me</a>, I will be happy to share.</p>
+</div>
+</div>
 
 
 
