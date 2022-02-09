@@ -16,7 +16,8 @@ My professional interests cover multiple areas of predictive analytics and model
 * Combining systems of differential equations with Bayesian data analysis 
 * Developing ecological modeling tools to support decision making
 * Environmental forecasting with elaborate uncertainty quantification
-</br>
+
+---
 
 [My dissertation research](https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38491/etd.pdf?sequence=1&isAllowed=y) describes the development of statistical and mechanistic models in order to improve our ability of forecasting and eventually preventing eutrophication-driven water quality problems in estuarine and coastal systems. 
 </br>
