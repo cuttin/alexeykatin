@@ -89,17 +89,17 @@ This study was published in 2021: [Katin, A., Del Giudice, D., Hall, N. S., Paer
 </div>
 </div>
 
-The important finding of this research is that implementing a 30% nutrient loading reduction for the Neuse River Estuary would help to reduce chlorophyll *a* concentration by 14% and decrease the amount of hypoxic days by 25%. These reductions will help to meet compliance with [state water quality standards](https://deq.nc.gov/about/divisions/water-resources/water-planning/nonpoint-source-planning/neuse-nutrient-strategy#general-resources) will result in overall reduction of ecosystem stress, potentially reducing fish mortality.
+The important finding of this research is that implementing a 30% nutrient loading reduction for the Neuse River Estuary would help to reduce chlorophyll *a* concentration by 14% and decrease the amount of hypoxic days by 25%. These suggested nutrient loading reductions will help to meet compliance with [state water quality standards](https://deq.nc.gov/about/divisions/water-resources/water-planning/nonpoint-source-planning/neuse-nutrient-strategy#general-resources) and will decrease the ecosystem stress, potentially reducing fish mortality.
 
 ---
 
 #### Gulf of Mexico 
 
-In this project I focused on two major tasks: 1) leveraging the existing Bayesian mechanistic model for forecasting dissolved oxygen levels in advance of hypoxic season for Northern Gulf of Mexico 2) using a Bayesian delta-lognormal approach to model distrubutions of Brown and White Shrimp for Louisiana shelf of the Northern Gulf.  
+In this project I focused on two major tasks: 1) leveraging the existing Bayesian mechanistic model for forecasting dissolved oxygen levels in advance of hypoxic season for Northern Gulf of Mexico 2) using a Bayesian delta-lognormal approach to model distributions of Brown and White Shrimp for Louisiana shelf of the Northern Gulf.  
 
 A combination of anthropogenic and environmental factors controls the size the of the low dissolved oxygen (hypoxic) zone, occurring each summer in the Northern Gulf of Mexico. Hypoxia influences the distribution of commercially important finfish and shellfish, with implications for fisheries management. Most [existing hypoxia forecasts](https://doi.org/10.1073/pnas.1705293114) for the Gulf are based only on spring nitrogen load and report only late-July hypoxic conditions. 
 
-However, temporally-resolved forecasts are critical for informing fisheries that are active across the summer season. I present a hypoxia forecasting system, which provides dissolved oxygen concentrations and hypoxic area size at daily resolution with up to four months of lead time. The underlying Bayesian mechanistic model allows for testing various representations of hydro-meteorological model inputs, explicitly distinguishing between different sources of uncertainty. 
+However, temporally-resolved forecasts are critical for informing fisheries that are active across the summer season. I present a hypoxia forecasting system, which provides dissolved oxygen concentrations and hypoxic area size at daily resolution with up to four months of lead time. The underlying Bayesian mechanistic model allows for testing various representations of riverine and meteorological model inputs, explicitly distinguishing between different sources of uncertainty. 
 
 ```{r gom forecast timeseries, echo = FALSE, fig.cap = "Daily pseudo-forecasts of hypoxic area for the west and east sections of the Northern Gulf in 1993, including 95% interquantile range of the predictive distribution, distinguishing between i) parameter, ii) riverine and meteorological inputs, iii) mechanistic model error and iv) bias adjustment and transformation of dissolved oxygen to hypoxic area errors (shades of gray from lightest to darkest). Yellow dashed line is hindcasted estimate, black dashed line is the 32 year average hindcast, orange points and error bars represent the mean and associated 95% confidence interval of the (geostatistically estimated) hypoxia observations.", fig.align = "left", out.width = '100%'}
 knitr::include_graphics("images\\time_series_2_shelfs_combined_1993_with_legend.png")
@@ -111,7 +111,7 @@ This manuscript was accepted for publication, and the preprint is available: [Ka
 
 ---
 
-Delta-lognormal approach, combining logistic (presence/absence) and multiple linear (non-zero) regressions, are developed for two shrimp species for the Louisiana–Texas shelf of the northern Gulf of Mexico, USA. The models represent the distribution of Brown (Penaeus aztecus) and White Shrimp (Penaeus setiferus) and identify the influence of multiple environmental, water quality (including dissolved oxygen), and anthropogenic predictor variables. The survey data of both shrimp species are analyzed using Bayesian statistical models, which are built on findings from generalized additive models (GAMs). The manuscript is in preparation. 
+Delta-lognormal approach, combining logistic (presence/absence) and multiple linear (non-zero) regressions, are developed for two shrimp species for the Louisiana–Texas shelf of the Northern Gulf of Mexico, USA. The models represent the distribution of Brown (Penaeus aztecus) and White Shrimp (Penaeus setiferus) and identify the influence of multiple environmental, water quality (including dissolved oxygen), and anthropogenic predictor variables. The survey data of both shrimp species are analyzed using Bayesian statistical models, which are built on findings from generalized additive models (GAMs). The manuscript is in preparation. 
 
 ```{r gom shrimp predictions, echo = FALSE, fig.cap = "Scaled (by July maximum) predicted (shades of grey) and observed (blue circles) abundance (CPUE, catch per unit effort) of Brown and White Shrimp using delta-lognormal approach for July 2008 ", fig.align = "left", out.width = '100%'}
 knitr::include_graphics("images\\combined_july_scaled_cpue.png")
