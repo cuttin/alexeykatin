@@ -103,7 +103,7 @@ Thesis: Development of recommendations for improving gas purification system for
 
 3. <a id="nre_chla"></a>Katin, A., Del Giudice, D., Hall, N.S., Paerl, H.W., Obenour, D.R. (2021). Simulating algal dynamics within a Bayesian framework to evaluate controls on estuary productivity. Ecological modelling, Vol. 447. [10.1016/j.ecolmodel.2021.109497](https://www.sciencedirect.com/science/article/pii/S0304380021000685)
 
-4. Katin, A., Del Giudice, D., Obenour, D.R. Daily hypoxia forecasting and uncertainty assessment via Bayesian mechanistic model for the Northern Gulf of Mexico, Hydrol. Earth Syst. Sci. Discuss, preprint, in review. [10.5194/hess-2021-207](https://doi.org/10.5194/hess-2021-207)
+4. Katin, A., Del Giudice, D., Obenour, D.R. (2022). Temporally resolved coastal hypoxia forecasting and uncertainty assessment via Bayesian mechanistic modeling, Hydrology and Earth System Sciences, Volume 26. [10.5194/hess-26-1131-2022](https://doi.org/10.5194/hess-26-1131-2022)
 
 #### Other related experience and unpublished works 
 

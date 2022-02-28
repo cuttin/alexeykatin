@@ -107,7 +107,7 @@ knitr::include_graphics("images\\time_series_2_shelfs_combined_1993_with_legend.
 
 Results show that constraining summer riverine inputs based on spring conditions, including precipitation over the Mississippi River basin, can be used to improve hypoxia forecasting skill. Results also suggest that inclusion of spring wind data further enhances hypoxia forecasts. Overall, retrospective forecasts explain about 50% of the temporal variability in hypoxic area for two different sections of the Louisiana–Texas shelf of the Gulf (1985−2016). In addition, the forecasting approach explicitly quantifies the uncertainty associated with model parameters, variability in data inputs, and residual error, allowing for risk-based ecosystem management.
 
-This manuscript was accepted for publication, and the preprint is available: [Katin, A., Del Giudice, D., & Obenour, D. R. (2021). Daily hypoxia forecasting and uncertainty assessment via Bayesian mechanistic model for the Northern Gulf of Mexico. Hydrology and Earth System Sciences Discussions, 1-17.](https://hess.copernicus.org/preprints/hess-2021-207/hess-2021-207.pdf)  
+This manuscript was published in 2022: [Katin, A., Del Giudice, D., Obenour, D.R. (2022). Temporally resolved coastal hypoxia forecasting and uncertainty assessment via Bayesian mechanistic modeling, Hydrology and Earth System Sciences, Volume 26.](https://doi.org/10.5194/hess-26-1131-2022)  
 
 ---
 
