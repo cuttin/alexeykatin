@@ -17,13 +17,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="row">
   <div class="col-12 col-md-8">
-  915 Partners Way<br> 
-  North Carolina State University <br>
-  Mailing: 4505 McCrimmon Pkwy, apt. 2305, Morrisville, NC 27560</div>
-  <div class="col-6 col-md-4">
-  +1 919 633 0911 <br>
+   +1 919 633 0911 <br>
   akatin@ncsu.edu <br>
-  [www.alexeykatin.xyz](http://alexeykatin.xyz)
+  [www.alexeykatin.xyz](http://alexeykatin.xyz)</div>
+  <div class="col-6 col-md-4">
+ 
   </div>
 </div>
 
@@ -34,6 +32,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * Statistical and differential equation modeling, machine learning, Bayesian inference
 * Data analysis and visualization (maps, tables, and figures)
 * Water quality, hydrologic and ecological modeling
+
+***
 
 #### Education
 
@@ -56,6 +56,8 @@ Thesis: Credit risk management for “Alfa-Bank”
 **National University of Science and Technology (MISIS)** (Moscow, Russia)<br>
 Advisor: Yuri M. Kochnov<br>
 Thesis: Development of recommendations for improving gas purification system for arc shaft furnace “Severstal” in order to reduce energy costs
+
+***
 
 #### Positions held
 
@@ -96,6 +98,8 @@ Thesis: Development of recommendations for improving gas purification system for
 
 * Designed sales brochures according to corporate style. Worked with printing agencies
 
+***
+
 #### Scholarly works 
 
 1. <a id="gom_ensemble"></a>Scavia, D., Bertani, I., Obenour, D.R., Turner, R.E., Forrest, D.R., Katin, A. (2017). Ensemble modeling informs hypoxia management in the northern Gulf of Mexico. Proceedings of the National Academy of Sciences, Vol. 114, 8823-8828. [10.1073/pnas.1705293114](http://www.pnas.org/content/114/33/8823.abstract)
@@ -106,7 +110,9 @@ Thesis: Development of recommendations for improving gas purification system for
 
 4. Katin, A., Del Giudice, D., Obenour, D.R. (2022). Temporally resolved coastal hypoxia forecasting and uncertainty assessment via Bayesian mechanistic modeling, Hydrology and Earth System Sciences, Volume 26. [10.5194/hess-26-1131-2022](https://doi.org/10.5194/hess-26-1131-2022)
 
-#### Other related experience and unpublished works 
+***
+
+#### Other related experience  
 
 * Assisted in collecting water quality samples and CTD profiling at University Lake, NC (2017)
 
@@ -115,6 +121,8 @@ Thesis: Development of recommendations for improving gas purification system for
 * Sampled sediment and deployed sensors (temperature, salinity) at the Ikuchijima island, Hiroshima area, Japan (2015)
 
 * Accomplished study project during Masters: Testing the performance of spatial interpolation techniques for mapping precipitation fields in Saxony, Germany (2014). Interpolation and output figures were performed in R 
+
+***
 
 #### Presentations
 Katin, A., Obenour, D.R., Del Giudice D. "Summerlong, climate-driven hypoxia forecasts for the northern Gulf of Mexico via Bayesian mechanistic modeling", 26th Biennial Conference of Coastal and Estuarine Research Federation (CERF), November, 2021.
@@ -127,7 +135,9 @@ Katin, A., Del Giudice D., Paerl, H.W., Obenour, D.R. [“Modeling biophysical c
 
 Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River Estuary”, North Carolina Sea Grant Conference. Raleigh, NC. April 2017. 
 
-#### Publications at North Carolina Sea Grant Coastal Watch<a id="blog_posts"></a>
+***
+
+#### Other Publications targeting non-scientific audience <a id="blog_posts"></a>
 
 1. [Forecasting Hypoxia, Algal Blooms for the Neuse River Estuary](https://ncseagrant.ncsu.edu/currents/2016/10/forecasting-hypoxia-algal-blooms-for-the-neuse-river-estuary/), 2016
 
@@ -145,6 +155,8 @@ Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River
 
 8. [2022 Experimental Forecast of Brown and White Shrimp Summer Distributions on the Louisiana Shelf](https://drive.google.com/file/d/1ygUUzVsp_maWAVEdEj9UP7bUNYhhd9Tn/view), 2022
 
+***
+
 #### Software Experience
 
 Modeling: R, Python, MATLAB, SAS, Stan, ArcGIS, GRASS, QUAL2K, WEAP, IRIC, Lindo, Minteq
@@ -152,6 +164,8 @@ Modeling: R, Python, MATLAB, SAS, Stan, ArcGIS, GRASS, QUAL2K, WEAP, IRIC, Lindo
 Web: HTML, Gauss, First spirit, Joomla, Bitrix, WordPress
 
 Graphics: Adobe (Photoshop, Illustrator, InDesign), Corel, GIMP
+
+***
 
 #### Honors
 
