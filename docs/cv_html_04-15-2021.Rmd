@@ -61,7 +61,14 @@ Thesis: Development of recommendations for improving gas purification system for
 
 #### Positions held
 
-**Postdoctoral Scholar**. NCSU, CCEE (2021–present)
+**Quantitative Analyst**. NextEra Analytics, CCEE (Aug 2022–present)
+
+* Lead the development of the core algorithms and models to support trading, origination, and asset optimization decisions 
+* Performed quantitative studies, evaluating revenues from assets, including analysis of day-ahead / real-time prices (LMP, ancillaries, load, wind, and/or solar) back/forecasting 
+* Provided ad-hoc solutions for unique projects, e.g. microgrid modeling 
+* Trained junior personnel
+
+**Postdoctoral Scholar**. NCSU, CCEE (Feb 2021–Jul 2022)
 
 * Developed Bayesian models linking spatio-temporal distributions of marine species (Brown and White Shrimp) to environmental, water quality and anthropogenic factors (manuscript in prep.) 
 * Teaching Hydraulics class (CE 282), Summer 2, 2022
@@ -154,6 +161,8 @@ Katin, A., Obenour, D.R. “Hypoxia and algal bloom modeling for the Neuse River
 7. [Neuse Oxygen Levels Could Bring Summer Fish Kills](https://ncseagrant.ncsu.edu/currents/2022/06/neuse-oxygen-levels-could-bring-summer-fish-kills/), 2022
 
 8. [2022 Experimental Forecast of Brown and White Shrimp Summer Distributions on the Louisiana Shelf](https://drive.google.com/file/d/1ygUUzVsp_maWAVEdEj9UP7bUNYhhd9Tn/view), 2022
+
+9. [2023 Experimental Forecast of Brown and White Shrimp Summer Distributions on the Louisiana Shelf](https://drive.google.com/file/d/15Skg3pb4jCyqh6hafxAQfNJRunrXH0lr/view), 2023
 
 ***
 
