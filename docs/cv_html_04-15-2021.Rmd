@@ -61,7 +61,7 @@ Thesis: Development of recommendations for improving gas purification system for
 
 #### Positions held
 
-**Quantitative Analyst**. NextEra Analytics, CCEE (Aug 2022–present)
+**Quantitative Analyst**. NextEra Analytics, (Aug 2022–present)
 
 * Lead the development of the core algorithms and models to support trading, origination, and asset optimization decisions 
 * Performed quantitative studies, evaluating revenues from assets, including analysis of day-ahead / real-time prices (LMP, ancillaries, load, wind, and/or solar) back/forecasting 
