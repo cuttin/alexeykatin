@@ -16,8 +16,8 @@ library(fontawesome)
 <div class = "row">
 <div class = "col-sm-3">
 
-```{r pressure, echo = FALSE, fig.cap = "at [CERF Conference 2019](https://www.cerf.science/cerf-2019)", fig.align = "left", out.width = '100%'}
-knitr::include_graphics("images\\me.jpg")
+```{r pressure, echo = FALSE, fig.cap = "", fig.align = "left", out.width = '100%'}
+knitr::include_graphics("images\\Alexey Katin 1.jpg")
 ```
 </div>
 
