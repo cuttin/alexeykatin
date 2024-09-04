@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="row">
   <div class="col-12 col-md-8">
    +1 919 633 0911 <br>
-  akatin@ncsu.edu <br>
+  alexey.katin@gmail.com <br>
   [www.alexeykatin.xyz](http://alexeykatin.xyz)</div>
   <div class="col-6 col-md-4">
  
